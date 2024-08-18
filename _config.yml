@@ -1,11 +1,11 @@
 # Site settings
-title: Steven Blog
-SEOTitle: 念笙的博客 | Steven Blog
+title: Luobr Blog
+SEOTitle: 念笙的博客 | Luobr Blog
 header-img: img/home-bg.jpg
 email: 1079936145@qq.com
 description: "爱跑步的程序猿！"
-keyword: "Steven Blog, 博客, 个人网站, 互联网, Web,"
-url: "http://localhost:4000" # your host, for absolute URL
+keyword: "Luobr Blog, 博客, 个人网站, 互联网, Web,"
+url: "https://steven-beep.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: luobr
 
 # Netease settings
 netease_comment: false
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个爱跑步的程序员 <br> 解决 Bug 的时候更有耐心"
 sidebar-avatar: https://use-typora.oss-cn-hangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240120160837.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -91,12 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "Java 全栈知识体系",href: "https://pdai.tech/md/algorithm/alg-basic-tree-hafman.html#google_vignette",target: "_blank" },
   ]
