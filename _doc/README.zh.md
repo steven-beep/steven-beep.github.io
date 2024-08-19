@@ -256,7 +256,7 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 其实这个SEO Title就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
 ## 博客标题
-- layout: post/keynote 类型
+- layout: post/keynote/page 类型
 - title: "text" 标题
 - subtitle: "text" 子标题
 - author: "text" 作者
