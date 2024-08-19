@@ -1,0 +1,12 @@
+---
+layout:     keynote
+title:      "研究下幻灯片"
+subtitle:   "text"
+iframe:     "//huangxuan.me/pwa-qcon2016/"
+navcolor:   "invert"
+author:     "luobr"
+published: false
+---
+
+
+> 研究下幻灯片

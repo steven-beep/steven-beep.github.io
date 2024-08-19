@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: "G-1TV7F51RX4" # Format: UA-xxxxxx-xx 
+ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -91,5 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Java 全栈知识体系",href: "https://pdai.tech/md/algorithm/alg-basic-tree-hafman.html#google_vignette",target: "_blank" },
+    { title: "Java 全栈知识体系",href: "https://pdai.tech/md/resource/tools.html",target: "_blank" },
+    { title: "成诚",href: "https://www.xiaohongshu.com/user/profile/5f0991e500000000010016f0",target: "_blank" },
   ]
