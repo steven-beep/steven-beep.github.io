@@ -15,8 +15,9 @@ future: true
 RSS: false
 red_username: 5c5a30c4000000001b02bdfa
 weibo_username: stevenpro
-github_username: steven-beep
+# github_username: steven-beep
 csdn_username: Al_tair
+zhihu_username: lns.com
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
