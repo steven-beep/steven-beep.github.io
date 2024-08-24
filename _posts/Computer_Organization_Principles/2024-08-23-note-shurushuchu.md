@@ -227,7 +227,7 @@ I/O 接口通常是指主机与 I/O 设备之间设置的一个硬件电路及�
 
 ##### 接口的功能和组成
 
-​       **功能 **                                          **组成**
+​       **功能**                                          **组成**
 
 - 选址功能                                设备选择电路
 
@@ -442,7 +442,7 @@ I/O 接口通常是指主机与 I/O 设备之间设置的一个硬件电路及�
 - **中断机构**：当字计数器溢出（全“0”）时，表示一批数据交换完毕，由“溢出信号”通过中断机构向CPU提出中断请求，请求CPU作 DMA操作的后处理
 - **设备地址寄存器(DAR)** ：DAR存放I/O设备的设备码或表示设备信息存储区的寻址信息（如磁盘数据所在的区号、盘面号和柱面号）
 
-<img src="C:/Users/admin/AppData/Roaming/Typora/typora-user-images/image-20240309113820075.png" alt="image-20240309113820075" style="zoom:80%;" /> 
+<img src="https://use-typora.oss-cn-hangzhou.aliyuncs.com/image-20240309113820075.png" alt="image-20240309113820075" style="zoom:80%;" />
 
 ---
 
@@ -487,7 +487,7 @@ DMA 传送过程分：预处理、数据传送、后处理
 
 DMA方式是以数据块为单位传送的，以周期挪用的DMA方式为例
 
-<img src="https://use-typora.oss-cn-hangzhou.aliyuncs.com/image-20240309114505413.png" alt="image-20240309114505413" style="zoom: 50%;" /> <img src="C:/Users/admin/AppData/Roaming/Typora/typora-user-images/image-20240309113820075.png" alt="image-20240309113820075" style="zoom: 60%;" /> 
+<img src="https://use-typora.oss-cn-hangzhou.aliyuncs.com/image-20240309114505413.png" alt="image-20240309114505413" style="zoom: 50%;" /> <img src="https://use-typora.oss-cn-hangzhou.aliyuncs.com/image-20240309113820075.png" alt="image-20240309113820075" style="zoom: 60%;" />
 
 ##### 后处理
 
